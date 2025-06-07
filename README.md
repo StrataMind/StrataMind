@@ -2,7 +2,7 @@
 <h3 align="center">Engineer | AI Explorer | Future Founder | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Crafting+Code+for+a+Better+World;AI+%7C+ML+%7C+Startups+%7C+Politics+%7C+Passion+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Crafting+Code+for+a+Better+World;AI+%7C+ML+%7C+Startups+%7C+Workout+%7C+Passion+Projects" alt="Typing SVG" />
 </p>
 
 ---
