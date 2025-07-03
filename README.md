@@ -461,7 +461,7 @@ A sophisticated collection of modern web games built with cutting-edge technolog
 🌊 Nature immersion: oceans, mountains, forests<br>
 💬 Deep conversations and meaningful connections<br>
 🧘 Mindfulness and meditation practices<br>
-🎪 Work-life balance mastery<br>
+🎪 Work life balance mastery<br>
 </td>
 </tr>
 </table>
