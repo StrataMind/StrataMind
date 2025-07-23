@@ -29,10 +29,10 @@
 ╔══════════════════════════════════════════════════╗
 ║                    SURAJ.EXE                    ║
 ╠══════════════════════════════════════════════════╣
-║ 🎓 EDUCATION: B.Tech Electrical Engineering      ║
-║ 🏛️ INSTITUTION: NITK Surathkal                  ║
-║ 🧠 SPECIALIZATION: AI & Deep Learning            ║
-║ 🔥 STATUS: Future Founder in Progress            ║
+║ EDUCATION: B.Tech Electrical Engineering      ║
+║ INSTITUTION: NITK Surathkal                  ║
+║ SPECIALIZATION: AI & Deep Learning            ║
+║ STATUS: Future Founder in Progress            ║
 ╚══════════════════════════════════════════════════╝
 ```
 </td>
