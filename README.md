@@ -75,7 +75,7 @@
 
 ---
 
-### 🎯 Mission Parameters
+### Mission Parameters
 
 ```yaml
 primary_directive: "Building transformative AI startups"
