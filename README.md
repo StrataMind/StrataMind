@@ -1,7 +1,7 @@
-# 🌌 Welcome to Suraj's Digital Universe
+# Welcome to Suraj's Digital Universe
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24&height=300&section=header&text=SURAJ&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🚀%20AI%20ENGINEER%20%7C%20🔬%20INNOVATION%20CATALYST%20%7C%20🌟%20FUTURE%20FOUNDER&descSize=22&descAlignY=55&stroke=00f7ff&strokeWidth=3" alt="Suraj Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24&height=300&section=header&text=SURAJ&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20AI%20ENGINEER%20%7C%20🔬%20INNOVATION%20CATALYST%20%7C%20%20FUTURE%20FOUNDER&descSize=22&descAlignY=55&stroke=00f7ff&strokeWidth=3" alt="Suraj Banner" />
 </div>
 
 <div align="center">
