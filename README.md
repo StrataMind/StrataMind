@@ -132,10 +132,8 @@ graph TD
 ### ◉ **Featured Projects**
 <div align="center">
 
-[![Optimized LSTM Networks](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=optimized-lstm-networks&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/optimized-lstm-networks)
-[![Fan Highlights Generator](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=fan-highlights-generator&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/fan-highlights-generator)
-[![Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=recommendation-system&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/recommendation-system)
-[![GreenPulse](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=greenpulse&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/greenpulse)
+[![AI Project 1](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=repo-name&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/repo-name)
+[![AI Project 2](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=repo-name&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/repo-name)
 
 </div>
 
@@ -209,16 +207,16 @@ future = ai_architect.build_future()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-96b45220a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://surajsk2003.github.io/Suraj.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajsk2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajkumarsksk2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-## 💡 **INNOVATION PHILOSOPHY**
+## ◇ **INNOVATION PHILOSOPHY**
 
 <div align="center">
 
@@ -232,7 +230,7 @@ future = ai_architect.build_future()
 
 <div align="center">
   
-### 🌟 **"The future belongs to those who understand both the science of what is possible and the art of what should be built."**
+### ◉ **"The future belongs to those who understand both the science of what is possible and the art of what should be built."**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:8b5cf6,100:ec4899&height=120&section=footer&animation=fadeIn)
 
@@ -242,7 +240,7 @@ future = ai_architect.build_future()
 
 <div align="center">
 
-**⭐ Star this repository if you believe in the power of AI to transform our world! ⭐**
+**▲ Star this repository if you believe in the power of AI to transform our world! ▲**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajsk2003.surajsk2003&left_color=00f7ff&right_color=7c3aed&left_text=Future%20Builders)
 
