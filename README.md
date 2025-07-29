@@ -134,6 +134,8 @@ graph TD
 
 [![Optimized LSTM Networks](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=optimized-lstm-networks&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/optimized-lstm-networks)
 [![Fan Highlights Generator](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=fan-highlights-generator&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/fan-highlights-generator)
+[![Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=recommendation-system&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/recommendation-system)
+[![GreenPulse](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=greenpulse&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/greenpulse)
 
 </div>
 
