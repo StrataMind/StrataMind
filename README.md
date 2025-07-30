@@ -132,8 +132,7 @@ graph TD
 ### ◉ **Featured Projects**
 <div align="center">
 
-[![AI Project 1](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=repo-name&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/repo-name)
-[![AI Project 2](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=repo-name&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/repo-name)
+[![AI Project 1](https://surajsk2003.github.io/ecommerce-recommendation-engine/)](Revolutionary AI E-Commerce Platform)
 
 </div>
 
