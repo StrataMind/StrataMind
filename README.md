@@ -129,12 +129,6 @@ graph TD
     style D fill:#10b981,stroke:#0d1117,color:#fff
 ```
 
-### ◉ **Featured Projects**
-<div align="center">
-
-[![AI Project 1](https://surajsk2003.github.io/ecommerce-recommendation-engine/)](Revolutionary AI E-Commerce Platform)
-
-</div>
 
 ---
 
