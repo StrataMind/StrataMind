@@ -215,7 +215,7 @@ future = ai_architect.build_future()
 
 > *"In the intersection of artificial intelligence and human creativity lies the blueprint for humanity's next evolutionary leap. Every algorithm I architect, every model I train, every system I build is a step toward a future where technology amplifies human potential rather than replacing it."*
 
-**— Building Tomorrow's Intelligence, Today**
+**— Building Tomorrow's Intelligence,, Today**
 
 </div>
 
