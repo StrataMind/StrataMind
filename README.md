@@ -40,7 +40,7 @@
 
 ---
 
-## ⚡ **TECH ARSENAL**
+## ⚡ **TECH-ARSENAL**
 
 ### ▲ **AI/ML Frameworks**
 <div align="center">
