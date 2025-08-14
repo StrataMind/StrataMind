@@ -21,7 +21,7 @@
 ```yaml
 ▣ SYSTEM_SPECS:
   ├── Name: Suraj Singh
-  ├── Role: AI Research Engineer | Innovation Architect  
+  ├── Role: AI Research Engineer  | Innovation Architect  
   ├── Education: B.Tech Electrical Engineering | NITK Surathkal
   ├── Location: Bengaluru, Karnataka, India
   └── Status: Engineering the Future of Intelligence
