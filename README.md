@@ -32,7 +32,7 @@
   ├── Advanced Machine Learning Systems
   ├── Time Series Forecasting & Prediction
   ├── Computer Vision & Deep Learning
-  └── AI-Driven Innovation Engineering  
+  └── AI-Driven Innovation Engineering    
 
 ◆ MISSION_DIRECTIVE:
   └── "Architecting AI solutions that redefine technological boundaries "
