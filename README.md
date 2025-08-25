@@ -30,7 +30,7 @@
   ├── Generative AI & Large Language Models
   ├── Neural Network Architecture & Optimization
   ├── Advanced Machine Learning Systems
-  ├── Time Series Forecasting & Prediction
+  ├── Time Series Forecasting & Prediction 
   ├── Computer Vision & Deep Learning
   └── AI-Driven Innovation Engineering    
 
