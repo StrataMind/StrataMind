@@ -23,7 +23,7 @@
   ├── Name: Suraj Singh
   ├── Role: AI Research Engineer  | Innovation Architect  
   ├── Education: B.Tech Electrical Engineering | NITK Surathkal
-  ├── Location: Bengaluru, Karnataka, India
+  ├── Location: Bengaluru, Karnataka, India 
   └── Status: Engineering the Future of Intelligence 
 
 ◇ CORE_PROCESSING_UNITS: 
