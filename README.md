@@ -31,7 +31,7 @@
   ├── Neural Network Architecture & Optimization
   ├── Advanced Machine Learning Systems
   ├── Time Series Forecasting & Prediction 
-  ├── Computer Vision & Deep Learning
+  ├── Computer Vision & Deep Learning 
   └── AI-Driven Innovation Engineering    
  
 ◆ MISSION_DIRECTIVE:
