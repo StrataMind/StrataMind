@@ -114,7 +114,7 @@ graph TD
     A --> C[◧ Predictive Analytics]
     A --> D[◈ Computer Vision]
     
-    B --> E[◇ Natural Language Processing]
+    B --> E[◇ Natural Language Processing] 
     B --> F[▣ Creative AI Applications]
     
     C --> G[◆ Time Series Forecasting]
