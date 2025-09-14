@@ -26,7 +26,7 @@
   ├── Location: Bengaluru, Karnataka, India 
   └── Status: Engineering the Future of Intelligence 
 
-◇ CORE_PROCESSING_UNITS: 
+◇ CORE_PROCESSING_UNITS:  
   ├── Generative AI & Large Language Models
   ├── Neural Network Architecture & Optimization
   ├── Advanced Machine Learning Systems
