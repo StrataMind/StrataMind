@@ -143,7 +143,7 @@ class AIInnovator:
         self.expertise = [
             "▲ Neural Architecture Design",
             "◇ Predictive Model Engineering", 
-            "◈ Computer Vision Systems",
+            "◈ Computer Vision Systems", 
             "◧ Data Science & Analytics",
             "◉ MLOps & Model Deployment"
         ]
