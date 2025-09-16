@@ -186,7 +186,7 @@ future = ai_architect.build_future()
   └── ◇ Data Engineering Pipelines
 
 2022-2023: ▣ Electrical Engineering Foundation
-  ├── ◆ B.Tech from NITK Surathkal
+  ├── ◆ B.Tech from NITK Surathkal 
   ├── ◧ Power Systems & Electronics
   ├── ◈ Signal Processing
   └── ▲ Control Systems & Automation
