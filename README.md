@@ -95,7 +95,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=StrataMind&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=StrataMind&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrataMind&theme=tokyonight" alt="StrataMind's GitHub Contribution"/>
 
 </div>
 
