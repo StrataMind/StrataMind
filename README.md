@@ -2,16 +2,16 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=1500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=▲+AI+RESEARCH+ENGINEER;◆+MACHINE+LEARNING+ARCHITECT;▼+NEURAL+NETWORK+PIONEER;◈+BUILDING+TOMORROW'S+INTELLIGENCE;⚡+INNOVATION+×+IMPACT+×+INTELLIGENCE)](https://git.io.typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=1500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=▲+STRATA+MIND;◆+AI+RESEARCH+ENGINEER;▼+NEURAL+NETWORK+ARCHITECT;◈+BUILDING+TOMORROW'S+INTELLIGENCE;⚡+INNOVATION+×+IMPACT+×+INTELLIGENCE)](https://git.io.typing-svg)
 
 </div>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=surajsk2003&color=00f7ff&style=for-the-badge&label=NEURAL+CONNECTIONS)
-[![GitHub Followers](https://img.shields.io/github/followers/surajsk2003?color=7c3aed&style=for-the-badge&label=QUANTUM+NETWORK&logo=github)](https://github.com/surajsk2003?tab=followers)
-[![Stars](https://img.shields.io/github/stars/surajsk2003?color=ff6b6b&style=for-the-badge&label=STELLAR+PROJECTS&logo=star)](https://github.com/surajsk2003?tab=repositories)
-[![Commits](https://img.shields.io/badge/TOTAL_COMMITS-1000+-10b981?style=for-the-badge&logo=git)](https://github.com/surajsk2003)
+![Profile Views](https://komarev.com/ghpvc/?username=StrataMind&color=00f7ff&style=for-the-badge&label=NEURAL+CONNECTIONS)
+[![GitHub Followers](https://img.shields.io/github/followers/StrataMind?color=7c3aed&style=for-the-badge&label=QUANTUM+NETWORK&logo=github)](https://github.com/StrataMind?tab=followers)
+[![Stars](https://img.shields.io/github/stars/StrataMind?color=ff6b6b&style=for-the-badge&label=STELLAR+PROJECTS&logo=star)](https://github.com/StrataMind?tab=repositories)
+[![Commits](https://img.shields.io/badge/TOTAL_COMMITS-1000+-10b981?style=for-the-badge&logo=git)](https://github.com/StrataMind)
 
 </div>
 
@@ -21,10 +21,10 @@
 
 ```yaml
 ▣ SYSTEM_IDENTITY:
-  ├── 🧬 Name: Suraj Singh
-  ├── 🚀 Role: AI Research Engineer | Innovation Architect  
+  ├── 🧬 Name: Suraj Singh | StrataMind
+  ├── 🚀 Role: AI Research Engineer | Neural Network Architect  
   ├── 🎓 Education: B.Tech Electrical Engineering | NITK Surathkal
-  ├── 📍 Location: Bengaluru, Karnataka, India 
+  ├── 📍 Location: Mangalore → Bengaluru, Karnataka, India 
   ├── 🎯 Mission: Engineering AI Solutions that Transform Industries
   └── ⚡ Status: Building the Future, One Algorithm at a Time
 
@@ -87,21 +87,21 @@
 
 <div align="center">
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=surajsk2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=00f7ff&icon_color=7c3aed&text_color=ffffff&border_color=30363d&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=StrataMind&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=00f7ff&icon_color=7c3aed&text_color=ffffff&border_color=30363d&hide_border=false"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsk2003&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajsk2003&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrataMind&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajsk2003&bg_color=0D1117&color=00f7ff&line=7c3aed&point=ff6b6b&area=true&hide_border=false&border_radius=15)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StrataMind&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrataMind&bg_color=0D1117&color=00f7ff&line=7c3aed&point=ff6b6b&area=true&hide_border=false&border_radius=15)
 
 </div>
 
@@ -146,10 +146,10 @@ graph TD
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=LSTM-Hyperparameter-Optimization&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/LSTM-Hyperparameter-Optimization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=AWES-Feature-Engineering&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/AWES-Feature-Engineering)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=Sports-Highlights-Generator&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/Sports-Highlights-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=Local-LLM-System&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/Local-LLM-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=LSTM-Time-Series-Optimization&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/LSTM-Time-Series-Optimization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=AWES-Feature-Pipeline&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/AWES-Feature-Pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Personalized-Sports-AI&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Personalized-Sports-AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Local-LLM-Contextual-QA&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Local-LLM-Contextual-QA)
 
 </div>
 
@@ -322,7 +322,7 @@ future = ai_architect.build_future()
 
 **⭐ Star this repository if you believe in the power of AI to transform our world! ⭐**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajsk2003.surajsk2003&left_color=00f7ff&right_color=7c3aed&left_text=Future%20Builders&right_text=Connected)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=StrataMind.StrataMind&left_color=00f7ff&right_color=7c3aed&left_text=Future%20Builders&right_text=Connected)
 
 **💡 Always building, always learning, always innovating! 💡**
 
