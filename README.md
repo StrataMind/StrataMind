@@ -2,98 +2,94 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=800&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=▲+AI+RESEARCH+ENGINEER;◆+INNOVATION+ARCHITECT;▼+FUTURE+TECH+PIONEER;◈+BUILDING+TOMORROW'S+AI)](https://git.io.typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=1500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=▲+AI+RESEARCH+ENGINEER;◆+MACHINE+LEARNING+ARCHITECT;▼+NEURAL+NETWORK+PIONEER;◈+BUILDING+TOMORROW'S+INTELLIGENCE;⚡+INNOVATION+×+IMPACT+×+INTELLIGENCE)](https://git.io.typing-svg)
 
 </div>
 
 <div align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=surajsk2003&color=00f7ff&style=for-the-badge&label=NEURAL+CONNECTIONS)
-![GitHub Followers](https://img.shields.io/github/followers/surajsk2003?color=7c3aed&style=for-the-badge&label=QUANTUM+NETWORK)
-![Stars](https://img.shields.io/github/stars/surajsk2003?color=ff6b6b&style=for-the-badge&label=STELLAR+PROJECTS)
+[![GitHub Followers](https://img.shields.io/github/followers/surajsk2003?color=7c3aed&style=for-the-badge&label=QUANTUM+NETWORK&logo=github)](https://github.com/surajsk2003?tab=followers)
+[![Stars](https://img.shields.io/github/stars/surajsk2003?color=ff6b6b&style=for-the-badge&label=STELLAR+PROJECTS&logo=star)](https://github.com/surajsk2003?tab=repositories)
+[![Commits](https://img.shields.io/badge/TOTAL_COMMITS-1000+-10b981?style=for-the-badge&logo=git)](https://github.com/surajsk2003)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ◈ **NEURAL ARCHITECTURE**
 
 ```yaml
-▣ SYSTEM_SPECS:
-  ├── Name: Suraj Singh
-  ├── Role: AI Research Engineer  | Innovation Architect  
-  ├── Education: B.Tech Electrical Engineering | NITK Surathkal
-  ├── Location: Bengaluru, Karnataka, India 
-  └── Status: Engineering the Future of Intelligence 
+▣ SYSTEM_IDENTITY:
+  ├── 🧬 Name: Suraj Singh
+  ├── 🚀 Role: AI Research Engineer | Innovation Architect  
+  ├── 🎓 Education: B.Tech Electrical Engineering | NITK Surathkal
+  ├── 📍 Location: Bengaluru, Karnataka, India 
+  ├── 🎯 Mission: Engineering AI Solutions that Transform Industries
+  └── ⚡ Status: Building the Future, One Algorithm at a Time
 
 ◇ CORE_PROCESSING_UNITS:  
-  ├── Generative AI & Large Language Models
-  ├── Neural Network Architecture & Optimization
-  ├── Advanced Machine Learning Systems
-  ├── Time Series Forecasting & Prediction 
-  ├── Computer Vision & Deep Learning   
-  └── AI-Driven Innovation Engineering    
+  ├── 🤖 Large Language Models & Generative AI
+  ├── 🧠 Neural Network Architecture & Optimization
+  ├── 📊 Time Series Forecasting & Predictive Analytics
+  ├── 👁️ Computer Vision & Deep Learning Systems   
+  ├── ⚙️ MLOps & Model Deployment Automation
+  ├── 🔧 Advanced Feature Engineering Pipelines
+  └── 📈 Hyperparameter Optimization & AutoML    
   
-◆ MISSION_DIRECTIVE:
-  └── "Architecting AI solutions that redefine technological boundaries "
+◆ INNOVATION_PHILOSOPHY:
+  └── "Where Data Meets Intelligence, Magic Happens ✨"
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ **TECH-ARSENAL**
+## ⚡ **TECH ARSENAL**
 
-### ▲ **AI/ML Frameworks**
 <div align="center">
 
+### 🧠 **AI/ML Powerhouse**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-</div>
-
-### ◣ **Core Technologies**
-<div align="center..">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 **Development Stack**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-</div>
-
-### ◈ **Cloud & Infrastructure**
-<div align="center ">
-
+### ☁️ **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-</div>
-
-### ◧ **Data Engineering**
-<div align="center">
-
+### 🗄️ **Data Engineering**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ◈ **QUANTUM METRICS**
+## 📊 **QUANTUM METRICS**
 
 <div align="center">
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=surajsk2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=00f7ff&icon_color=7c3aed&text_color=ffffff&border_color=30363d"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=surajsk2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=00f7ff&icon_color=7c3aed&text_color=ffffff&border_color=30363d&hide_border=false"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsk2003&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsk2003&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d&langs_count=8"/>
 
 </div>
 
@@ -103,64 +99,100 @@
 
 </div>
 
----
+<div align="center">
 
-## ◇ **INNOVATION PIPELINE**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajsk2003&bg_color=0D1117&color=00f7ff&line=7c3aed&point=ff6b6b&area=true&hide_border=false&border_radius=15)
 
-### ◆ **Current Research Focus**
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 **RESEARCH PIPELINE**
+
+<div align="center">
+
+### 🔬 **Current AI Research Focus**
 ```mermaid
 graph TD
-    A[▲ Advanced AI Systems] --> B[◣ Generative Models]
-    A --> C[◧ Predictive Analytics]
-    A --> D[◈ Computer Vision]
+    A[🧠 Advanced AI Systems] --> B[📝 Generative Models]
+    A --> C[📊 Predictive Analytics]
+    A --> D[👁️ Computer Vision]
+    A --> E[⚡ Neural Optimization]
     
-    B --> E[◇ Natural Language Processing] 
-    B --> F[▣ Creative AI Applications]
+    B --> F[💬 Natural Language Processing] 
+    B --> G[🎨 Creative AI Applications]
     
-    C --> G[◆ Time Series Forecasting]
-    C --> H[▼ Risk Assessment Models]
+    C --> H[⏰ Time Series Forecasting]
+    C --> I[📈 Risk Assessment Models]
     
-    D --> I[◉ Object Detection & Recognition]
-    D --> J[◈ Medical Image Analysis]
+    D --> J[🔍 Object Detection & Recognition]
+    D --> K[🏥 Medical Image Analysis]
+    
+    E --> L[🧬 Genetic Algorithms]
+    E --> M[🏗️ Neural Architecture Search]
     
     style A fill:#00f7ff,stroke:#0d1117,color:#000
     style B fill:#7c3aed,stroke:#0d1117,color:#fff
     style C fill:#ff6b6b,stroke:#0d1117,color:#fff
     style D fill:#10b981,stroke:#0d1117,color:#fff
+    style E fill:#f59e0b,stroke:#0d1117,color:#fff
 ```
 
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ◈ **CREATIVITY ENGINE**
+## 🎯 **FEATURED PROJECTS**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=LSTM-Hyperparameter-Optimization&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/LSTM-Hyperparameter-Optimization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=AWES-Feature-Engineering&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/AWES-Feature-Engineering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=Sports-Highlights-Generator&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/Sports-Highlights-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajsk2003&repo=Local-LLM-System&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/surajsk2003/Local-LLM-System)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 **INNOVATION LAB**
 
 <details>
-<summary>◆ <b>Experimental AI Lab</b></summary>
+<summary>🧪 <b>AI Research Experiments</b></summary>
 
 ```python
 class AIInnovator:
     def __init__(self):
+        self.name = "Suraj Singh"
         self.expertise = [
-            "▲ Neural Architecture Design",
-            "◇ Predictive Model Engineering", 
-            "◈ Computer Vision Systems", 
-            "◧ Data Science & Analytics",
-            "◉ MLOps & Model Deployment"
+            "🧠 Neural Architecture Design",
+            "📊 Predictive Model Engineering", 
+            "👁️ Computer Vision Systems", 
+            "📈 Data Science & Analytics",
+            "⚙️ MLOps & Model Deployment",
+            "🔧 Advanced Feature Engineering",
+            "⚡ Hyperparameter Optimization"
         ]
+        self.current_research = {
+            "lstm_optimization": "Genetic & Heap-based tuning for time series",
+            "awes_feature_engineering": "Advanced pipeline for wind energy data",
+            "local_llm": "Fully contextual Q&A system",
+            "sports_ai": "Multi-language content generation"
+        }
         
     def build_future(self):
-        while True:
-            innovation = self.research() + self.experiment() + self.implement()
+        while self.passion_for_ai:
+            innovation = (
+                self.research() + 
+                self.experiment() + 
+                self.implement() + 
+                self.optimize()
+            )
             if innovation.transforms_industry():
                 return innovation.deploy_to_world()
     
-    def current_focus(self):
-        return {
-            "generative_ai": "Building next-gen language models",
-            "computer_vision": "Advancing medical imaging AI",
-            "time_series": "Revolutionary forecasting algorithms",
-            "optimization": "Neural architecture search automation"
-        }
+    def get_mission(self):
+        return "Building AI solutions that amplify human potential 🚀"
 
 # Initialize the innovation engine
 ai_architect = AIInnovator()
@@ -170,71 +202,128 @@ future = ai_architect.build_future()
 </details>
 
 <details>
-<summary>◇ <b>Learning Trajectory</b></summary>
+<summary>🎯 <b>Learning & Growth Timeline</b></summary>
 
 ```yaml
-2024-2025: ▲ AI Research & Innovation
-  ├── ◈ Advanced Neural Networks
-  ├── ◇ Large Language Models  
-  ├── ◧ Generative AI Systems
-  └── ◆ Computer Vision Applications
+📅 2024-2025: AI Research & Innovation Era
+  ├── 🤖 Large Language Models Mastery
+  ├── 🧠 Advanced Neural Networks
+  ├── 📊 Time Series Forecasting Research  
+  ├── 👁️ Computer Vision Applications
+  └── ⚡ Hyperparameter Optimization Techniques
 
-2023-2024: ◣ Full-Stack AI Development
-  ├── ▼ Python Ecosystem Mastery
-  ├── ◈ Cloud Architecture (AWS/GCP)
-  ├── ◉ MLOps & Model Deployment
-  └── ◇ Data Engineering Pipelines
+📅 2023-2024: Full-Stack AI Development
+  ├── 🐍 Python Ecosystem Deep Dive
+  ├── ☁️ Cloud Architecture (AWS/GCP)
+  ├── 🔄 MLOps & Model Deployment
+  ├── 📊 Data Engineering Pipelines
+  └── 🔧 Advanced Feature Engineering
 
-2022-2023: ▣ Electrical Engineering Foundation
-  ├── ◆ B.Tech from NITK Surathkal 
-  ├── ◧ Power Systems & Electronics
-  ├── ◈ Signal Processing
-  └── ▲ Control Systems & Automation
+📅 2021-2025: Engineering Foundation
+  ├── ⚡ B.Tech Electrical Engineering @ NITK Surathkal 
+  ├── 🔌 Power Systems & Electronics
+  ├── 📡 Signal Processing & Control Systems
+  ├── 🏆 JEE Advanced (CRL < 12,500)
+  └── 🎯 NTSE Scholar
 ```
 
 </details>
 
----
+<details>
+<summary>📈 <b>Research Publications & Achievements</b></summary>
 
-## ◉ **NEURAL NETWORK**
+### 🏆 **Key Accomplishments**
+- 🎓 **B.Tech Electrical Engineering** - NITK Surathkal (CGPA: Excellent)
+- 🏅 **JEE Advanced Qualified** - CRL Rank under 12,500
+- 🏆 **NTSE Scholar** - National Level Achievement  
+- 📝 **ML Research Internship** - Advanced AI Solutions
+- 🚀 **Multiple AI Projects** - Published on GitHub
+
+### 📊 **Research Papers (In Progress)**
+- 📄 "Optimised LSTM Networks for Time Series Forecasting using Genetic & Heap-Based Hyperparameter Tuning"
+- 📄 "Advanced Feature Engineering Pipeline for Airborne Wind Energy Systems"
+- 📄 "Multi-language Sports Content Generation using AI"
+
+### 🎯 **Future Vision**
+- 💼 Securing high-impact AI roles in top companies
+- 🚀 Building AI-powered startup ventures
+- 🏛️ Long-term: Contributing to policy and governance
+- 🌟 Creating large-scale humanitarian impact through technology
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 **NEURAL NETWORK CONNECTIONS**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://surajsk2003.github.io/Suraj.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-singh-96b45220a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajkumarsksk2000@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NicheVortex)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@surajsk2003)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ◇ **INNOVATION PHILOSOPHY**
+## 🎨 **CREATIVITY BEYOND CODE**
 
 <div align="center">
 
-> *"In the intersection of artificial intelligence and human creativity lies the blueprint for humanity's next evolutionary leap. Every algorithm I architect, every model I train, every system I build is a step toward a future where technology amplifies human potential rather than replacing it."*
+### 📹 **Content Creation**
+**🚀 Niche Vortex** - YouTube Channel focused on Science, Space & Technology  
+**📝 Medium Articles** - Mental Health, Productivity & Personal Growth  
+**🎬 Upcoming** - Meme-focused YouTube Shorts Channel
 
-**— Building Tomorrow's Intelligence,, Today**
+### 🏃‍♂️ **Life Balance**
+**💪 Fitness Enthusiast** - Intense 10-day gym cycles with cardio & strength training  
+**♟️ Strategic Mind** - Chess, Cricket & Basketball player  
+**🌿 Nature Explorer** - Lover of hills, seas, and green landscapes
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 **INNOVATION PHILOSOPHY**
 
 <div align="center">
-  
-### ◉ **"The future belongs to those who understand both the science of what is possible and the art of what should be built."**
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:8b5cf6,100:ec4899&height=120&section=footer&animation=fadeIn)
+> ### 🧠 *"At the intersection of artificial intelligence and human creativity lies the blueprint for humanity's next evolutionary leap."*
+
+> ### ⚡ *"Every algorithm I architect, every model I train, every system I build is a step toward a future where technology amplifies human potential."*
+
+> ### 🚀 *"The future belongs to those who understand both the science of what is possible and the art of what should be built."*
+
+**— Engineering Tomorrow's Intelligence, Today 🌟**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎵 **CODING SOUNDTRACK**
 
 <div align="center">
 
-**▲ Star this repository if you believe in the power of AI to transform our world! ▲**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajsk2003.surajsk2003&left_color=00f7ff&right_color=7c3aed&left_text=Future%20Builders)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🌟 **"The best way to predict the future is to invent it."**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+---
+
+**⭐ Star this repository if you believe in the power of AI to transform our world! ⭐**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajsk2003.surajsk2003&left_color=00f7ff&right_color=7c3aed&left_text=Future%20Builders&right_text=Connected)
+
+**💡 Always building, always learning, always innovating! 💡**
 
 </div>
