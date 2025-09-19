@@ -95,7 +95,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StrataMind&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=StrataMind&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
 
 </div>
 
@@ -146,10 +146,15 @@ graph TD
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=LSTM-Time-Series-Optimization&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/LSTM-Time-Series-Optimization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=AWES-Feature-Pipeline&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/AWES-Feature-Pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Personalized-Sports-AI&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Personalized-Sports-AI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Local-LLM-Contextual-QA&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Local-LLM-Contextual-QA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=ecommerce-recommendation-engine&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/ecommerce-recommendation-engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=HireNet&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/HireNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=GreenPulse&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/GreenPulse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=FARMLINK&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/FARMLINK)
+
+### 🚀 **More Innovative Projects**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Publixly&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Publixly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Game-Zone&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Game-Zone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Findora&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Findora)
 
 </div>
 
@@ -301,14 +306,6 @@ future = ai_architect.build_future()
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎵 **CODING SOUNDTRACK**
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
