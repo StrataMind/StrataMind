@@ -17,6 +17,50 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📰 **VISIT OUR BLOG SITE**
+
+<div align="center">
+
+[![Publixly Blog](https://img.shields.io/badge/🌐_Publixly_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://www.publixly.com/)
+
+### 📝 **Stay Updated with Latest Tech Insights**
+*Explore cutting-edge technology articles, AI research insights, and innovation stories*
+
+**✨ What you'll find:**
+- 🤖 **AI & Machine Learning** deep dives
+- 💡 **Tech Innovation** trends and analysis  
+- 🚀 **Startup Journey** experiences and lessons
+- 📊 **Data Science** tutorials and case studies
+- 🔮 **Future Tech** predictions and insights
+
+**[Visit Publixly →](https://www.publixly.com/)**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛒 **FINDORA - ECOMMERCE PLATFORM**
+
+<div align="center">
+
+[![Findora Ecommerce](https://img.shields.io/badge/🛍️_Findora_Store-00F7FF?style=for-the-badge&logo=shopify&logoColor=black)](https://findora-tau.vercel.app/)
+
+### 🏪 **Next-Gen Online Shopping Experience**
+*Discover products with AI-powered recommendations and seamless user experience*
+
+**🎯 Key Features:**
+- 🤖 **Smart Recommendations** - AI-driven product suggestions
+- 🔍 **Advanced Search** - Find exactly what you're looking for  
+- 💳 **Secure Payments** - Safe and reliable checkout process
+- 📱 **Mobile Optimized** - Perfect shopping experience on any device
+- ⚡ **Fast Loading** - Optimized performance for quick browsing
+
+**[Shop at Findora →](https://findora-tau.vercel.app/)**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## ◈ **NEURAL ARCHITECTURE**
 
 ```yaml
@@ -95,14 +139,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=StrataMind&theme=tokyonight&border_radius=15&background=0D1117&stroke=30363d&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrataMind&theme=tokyonight" alt="StrataMind's GitHub Contribution"/>
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrataMind&bg_color=0D1117&color=00f7ff&line=7c3aed&point=ff6b6b&area=true&hide_border=false&border_radius=15)
 
 </div>
@@ -154,9 +190,7 @@ graph TD
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=FARMLINK&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/FARMLINK)
 
 ### 🚀 **More Innovative Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Publixly&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Publixly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Game-Zone&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Game-Zone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrataMind&repo=Findora&theme=tokyonight&bg_color=0D1117&title_color=00f7ff&text_color=ffffff&border_color=30363d)](https://github.com/StrataMind/Findora)
 
 </div>
 
