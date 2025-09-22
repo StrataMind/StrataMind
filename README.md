@@ -77,7 +77,7 @@
   ├── 🧠 Neural Network Architecture & Optimization
   ├── 📊 Time Series Forecasting & Predictive Analytics
   ├── 👁️ Computer Vision & Deep Learning Systems   
-  ├── ⚙️ MLOps & Model Deployment Automation
+  ├── ⚙️ MLOps & Model Deployment Automation 
   ├── 🔧 Advanced Feature Engineering Pipelines
   └── 📈 Hyperparameter Optimization & AutoML    
   
