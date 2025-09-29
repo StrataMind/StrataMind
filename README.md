@@ -31,7 +31,7 @@
 - 💡 **Tech Innovation** trends and analysis  
 - 🚀 **Startup Journey** experiences and lessons
 - 📊 **Data Science** tutorials and case studies
-- 🔮 **Future Tech** predictions and insights
+- 🔮 **Future Tech** predictions and insights 
 
 **[Visit Publixly →](https://www.publixly.com/)**
 
