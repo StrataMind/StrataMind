@@ -52,7 +52,7 @@
 - 🤖 **Smart Recommendations** - AI-driven product suggestions
 - 🔍 **Advanced Search** - Find exactly what you're looking for  
 - 💳 **Secure Payments** - Safe and reliable checkout process
-- 📱 **Mobile Optimized** - Perfect shopping experience on any device
+- 📱 **Mobile Optimized** - Perfect shopping experience on any device 
 - ⚡ **Fast Loading** - Optimized performance for quick browsing
 
 **[Shop at Findora →](https://findora-tau.vercel.app/)**
