@@ -24,7 +24,7 @@
 [![Publixly Blog](https://img.shields.io/badge/🌐_Publixly_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://www.publixly.com/)
 
 ### 📝 **Stay Updated with Latest Tech Insights** 
-*Explore cutting-edge technology articles, AI research insights, and innovation stories*
+*Explore cutting-edge technology articles, AI  research insights, and innovation stories*
 
 **✨ What you'll find:**
 - 🤖 **AI & Machine Learning** deep dives
