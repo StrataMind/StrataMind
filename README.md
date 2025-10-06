@@ -27,7 +27,7 @@
 *Explore cutting-edge technology articles, AI  research insights, and innovation stories*
 
 **✨ What you'll find:**
-- 🤖 **AI & Machine Learning** deep dives  
+- 🤖 **AI & Machine Learning** deep dives   
 - 💡 **Tech Innovation** trends and analysis  
 - 🚀 **Startup Journey** experiences and lessons
 - 📊 **Data Science** tutorials and case studies
