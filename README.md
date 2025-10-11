@@ -165,7 +165,7 @@ graph TD
     
     D --> J[🔍 Object Detection & Recognition]
     D --> K[🏥 Medical Image Analysis]
-    
+     
     E --> L[🧬 Genetic Algorithms]
     E --> M[🏗️ Neural Architecture Search]
     
