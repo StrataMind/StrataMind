@@ -26,7 +26,7 @@
 ### 📝 **Stay Updated with Latest Tech Insights**  
 *Explore cutting-edge technology articles, AI  research insights, and innovation stories*
 
-**✨ What you'll find:**
+**✨ What you'll find:** 
 - 🤖 **AI & Machine Learning** deep dives   
 - 💡 **Tech Innovation** trends and analysis  
 - 🚀 **Startup Journey** experiences and lessons 
