@@ -49,7 +49,7 @@
 *Discover products with AI-powered recommendations and seamless user experience*
 
 **🎯 Key Features:**
-- 🤖 **Smart Recommendations** - AI-driven product suggestions
+- 🤖 **Smart Recommendations** - AI-driven product suggestions 
 - 🔍 **Advanced Search** - Find exactly what you're looking for  
 - 💳 **Secure Payments** - Safe and reliable checkout process
 - 📱 **Mobile Optimized** - Perfect shopping experience on any device  
