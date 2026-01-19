@@ -79,7 +79,7 @@
   ├── 👁️ Computer Vision & Deep Learning Systems   
   ├── ⚙️ MLOps & Model Deployment Automation 
   ├── 🔧 Advanced Feature Engineering Pipelines
-  └── 📈 Hyperparameter Optimization & AutoML     
+  └── 📈 Hyperparameter Optimization & AutoML      
   
 ◆ INNOVATION_PHILOSOPHY:
   └── "Where Data Meets Intelligence, Magic Happens ✨"
