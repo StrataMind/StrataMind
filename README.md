@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  
+   
 ![Profile Views](https://komarev.com/ghpvc/?username=StrataMind&color=00f7ff&style=for-the-badge&label=NEURAL+CONNECTIONS)
 [![GitHub Followers](https://img.shields.io/github/followers/StrataMind?color=7c3aed&style=for-the-badge&label=QUANTUM+NETWORK&logo=github)](https://github.com/StrataMind?tab=followers)
 [![Stars](https://img.shields.io/github/stars/StrataMind?color=ff6b6b&style=for-the-badge&label=STELLAR+PROJECTS&logo=star)](https://github.com/StrataMind?tab=repositories)
