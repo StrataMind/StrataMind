@@ -14,7 +14,7 @@
 [![Commits](https://img.shields.io/badge/TOTAL_COMMITS-1000+-10b981?style=for-the-badge&logo=git)](https://github.com/StrataMind)
 
 </div>
-
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📰 **VISIT OUR BLOG SITE** 
