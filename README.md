@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📰 **VISIT OUR BLOG SITE** 
-
+ 
 <div align="center">
 
 [![Publixly Blog](https://img.shields.io/badge/🌐_Publixly_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://www.publixly.com/)
