@@ -1,155 +1,117 @@
 <div align="center">
-
-```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
-# S U R A J &nbsp; K U M A R
+S U R A J   K U M A R
+Electrical Engineer · AI Researcher · Systems Builder
 
-### *Electrical Engineer · AI Researcher · Builder*
+NITK Surathkal (Alumnus, 2025)  |  Mangalore, Karnataka  |  India
 
-**NITK Surathkal** &ensp;|&ensp; Mangalore, Karnataka &ensp;|&ensp; India
-
-```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
-</div>
+</div> <br>
+  ❧   About
+
+    I am a graduate in Electrical Engineering from the National Institute of Technology Karnataka, Surathkal (Class of 2025). My work operates at the intersection of classical engineering discipline and modern machine intelligence — designing systems that are not only technically rigorous but purposeful.
+
+    My primary focus areas include applied Artificial Intelligence, time-series forecasting, large language models, and scalable ML infrastructure. I am particularly interested in building systems that are reliable, efficient, and deployable in real-world environments.
+
+    Beyond engineering, I write long-form essays on Medium, create science and space content on YouTube, play chess, and explore the landscapes of Karnataka.
+
+<br>
+  ❧   Research & Projects
+<br>
+
+①   Optimised LSTM Networks for Time Series Forecasting
+ — Conference Paper
+
+Implemented Genetic Algorithms and Heap-Based optimisation techniques to automate hyperparameter tuning for LSTM architectures, significantly improving forecasting performance on real-world time-series datasets.
 
 <br>
 
-## &nbsp;&nbsp;❧ &nbsp; About
+②   Feature Engineering Pipeline — Airborne Wind Energy Systems
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a final-year B.Tech student in Electrical Engineering at the National Institute of Technology Karnataka, Surathkal. My work sits at the boundary of classical engineering and modern machine intelligence — building systems that are not merely functional, but meaningful. I believe the best technology is invisible: it simply *works*, quietly and reliably, in service of people.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Beyond the terminal, I write on Medium, run a science & space channel on YouTube, play chess, and seek out every hill, sea, and stretch of green that Karnataka has to offer.
+Designed a structured, physics-informed feature engineering pipeline for AWES tether force prediction, emphasising interpretability, reproducibility, and deployment readiness.
 
 <br>
 
----
+③   Personalised Fan Highlights  — Hackathon Project
 
-## &nbsp;&nbsp;❧ &nbsp; Research & Projects
-
-<br>
-
-**① &nbsp; Optimised LSTM Networks for Time Series Forecasting**
-&ensp;— *Conference Paper (In Preparation)*
-
-> Applying Genetic Algorithms and Heap-Based Optimisation to automate hyperparameter tuning for LSTM networks, improving forecasting accuracy on real-world time series data.
+Built a multilingual generative AI pipeline that curates, summarises, and narrates personalised sports highlights tailored to individual viewer preferences.
 
 <br>
 
-**② &nbsp; Feature Engineering Pipeline — Airborne Wind Energy Systems**
+④   Fully Local LLM System
 
-> A structured, domain-aware pipeline for extracting and transforming raw AWES sensor data into model-ready features; designed for reliability and reproducibility.
-
-<br>
-
-**③ &nbsp; Personalised Fan Highlights** &ensp;— *Hackathon*
-
-> A multi-language sports content generator that curates and narrates highlight reels tailored to individual viewer preferences using generative AI.
+Developed a privacy-first, fully local question-answering system with contextual memory and retrieval-augmented generation, eliminating cloud dependency.
 
 <br>
 
-**④ &nbsp; Fully Local LLM System**
+⑤   Findora — E-Commerce Platform  →  findora-tau.vercel.app
 
-> A self-contained, privacy-first question-answering system running entirely on local infrastructure — no cloud dependency, full contextual memory.
-
-<br>
-
-**⑤ &nbsp; Findora** — E-Commerce Platform &ensp;`→` &ensp;[findora-tau.vercel.app](https://findora-tau.vercel.app/)
-
-> A next-generation shopping experience with AI-powered recommendations and clean, performant UI design.
+Engineered an AI-enhanced shopping platform with recommendation logic, performance-optimised UI, and scalable backend architecture.
 
 <br>
 
-**⑥ &nbsp; Publixly** — Technology Blog &ensp;`→` &ensp;[publixly.com](https://www.publixly.com/)
+⑥   Publixly — Technology & AI Blog  →  publixly.com
 
-> Long-form articles on AI research, startup lessons, data science, and the shape of things to come.
-
-<br>
-
----
-
-## &nbsp;&nbsp;❧ &nbsp; Technical Competencies
+Publishing long-form articles on AI systems, research insights, startup learning, productivity frameworks, and emerging technology trends.
 
 <br>
-
-```
+  ❧   Technical Competencies
+<br>
   LANGUAGES        Python · C++ · SQL · JavaScript · TypeScript
   FRAMEWORKS       TensorFlow · PyTorch · Scikit-Learn · FastAPI · React · Django
   AI / ML          LLMs · RAG · Hugging Face · LangChain · LSTM · AutoML
   INFRASTRUCTURE   AWS · Google Cloud · Docker · Kubernetes · MLflow
   DATA             PostgreSQL · MongoDB · Redis · Apache Spark · SQL Server
-```
 
 <br>
-
----
-
-## &nbsp;&nbsp;❧ &nbsp; Credentials
-
+  ❧   Credentials
+<br>
+Year	Achievement
+2025	B.Tech Electrical Engineering — NITK Surathkal
+2024	Machine Learning Research Internship — Advanced AI Solutions
+2021	JEE Advanced — CRL Rank < 12,500
+2021	JEE Mains — CRL Rank < 9,500
+2021	IIIT-H UGEE — Qualified SUPR Stage
+2018	NTSE Scholar — National Level (Stage I & II)
+<br>
+  ❧   Writing & Creation
 <br>
 
-| Year | Achievement |
-|------|-------------|
-| 2025 | B.Tech Electrical Engineering — NITK Surathkal |
-| 2024 | ML Research Internship — Advanced AI Solutions |
-| 2021 | JEE Advanced — CRL Rank < 12,500 |
-| 2021 | JEE Mains — CRL Rank < 9,500 |
-| 2021 | IIIT-H UGEE — Qualified SUPR Stage |
-| 2018 | NTSE Scholar — National Level, Stage I & II |
+📝 Medium — Essays on AI, productivity, long-term thinking, and mental models
+  medium.com/@surajsk2003
+
+▶ Niche Vortex — Science, space, and technological narratives
+  youtube.com/@NicheVortex
 
 <br>
-
----
-
-## &nbsp;&nbsp;❧ &nbsp; Writing & Creation
-
+  ❧   On the Matter of Ambition
 <br>
 
-**📝 Medium** &ensp;—&ensp; Essays on mental health, productivity, and personal growth
-&ensp;&ensp;[medium.com/@surajsk2003](https://medium.com/@surajsk2003)
+"Build systems that outlast you."
 
-**▶ Niche Vortex** &ensp;—&ensp; Science, space, and the remarkable facts of our universe
-&ensp;&ensp;[youtube.com/@NicheVortex](https://youtube.com/@NicheVortex)
+    In this phase of my career, I am focused on building deep technical expertise, shipping production-ready AI systems, and strengthening research foundations. My long-term vision extends toward entrepreneurship, large-scale technological impact, and eventually contributing to policy and governance through systems-level understanding.
 
-<br>
-
----
-
-## &nbsp;&nbsp;❧ &nbsp; On the Matter of Ambition
+    The work begins with disciplined execution — one problem, one system, one commit at a time.
 
 <br>
-
-> *"Do something big — for yourself, for your family, for humanity."*
-
-&nbsp;&nbsp;&nbsp;&nbsp;In the near term, I am building: projects that solve real problems, a presence in AI research, and the foundations of a startup. Further out, the horizon is wider — policy, governance, and the kind of systemic change that only becomes possible when you understand both technology and power. The work begins here, in a text editor, one commit at a time.
-
+  ❧   Find Me
 <br>
 
----
+   Portfolio    surajsk2003.github.io/Suraj.in
 
-## &nbsp;&nbsp;❧ &nbsp; Find Me
+   GitHub     github.com/surajsk2003
 
-<br>
+   LinkedIn    linkedin.com/in/surajnitk
 
-&nbsp;&nbsp;&nbsp;**Portfolio** &emsp;&emsp; [surajsk2003.github.io/Suraj.in](https://surajsk2003.github.io/Suraj.in/)
-&nbsp;&nbsp;&nbsp;**GitHub** &emsp;&emsp;&ensp; [github.com/surajsk2003](https://github.com/surajsk2003)
-&nbsp;&nbsp;&nbsp;**LinkedIn** &emsp;&emsp; [linkedin.com/in/surajnitk](https://www.linkedin.com/in/surajnitk/)
-&nbsp;&nbsp;&nbsp;**Twitter / X** &emsp; [x.com/StrataMinds](https://x.com/StrataMinds)
-&nbsp;&nbsp;&nbsp;**Email** &emsp;&emsp;&emsp; suraj.mvsss@gmail.com
+   Twitter / X   x.com/StrataMinds
 
-<br>
+   Email     suraj.mvsss@gmail.com
 
-<div align="center">
-
-```
+<br> <div align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
          "The best way to predict the future is to invent it."
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajsk2003.surajsk2003&left_color=4a3728&right_color=8b6914&left_text=Visitors&right_text=Welcome)
 
 </div>
