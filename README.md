@@ -138,7 +138,7 @@
 &nbsp;&nbsp;&nbsp;**GitHub** &emsp;&emsp;&ensp; [github.com/surajsk2003](https://github.com/surajsk2003)
 &nbsp;&nbsp;&nbsp;**LinkedIn** &emsp;&emsp; [linkedin.com/in/surajnitk](https://www.linkedin.com/in/surajnitk/)
 &nbsp;&nbsp;&nbsp;**Twitter / X** &emsp; [x.com/StrataMinds](https://x.com/StrataMinds)
-&nbsp;&nbsp;&nbsp;**Email** &emsp;&emsp;&emsp; surajkumarsksk2000@gmail.com
+&nbsp;&nbsp;&nbsp;**Email** &emsp;&emsp;&emsp; suraj.mvsss@gmail.com
 
 <br>
 
