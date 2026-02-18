@@ -2,116 +2,116 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 S U R A J   K U M A R
-Electrical Engineer · AI Researcher · Systems Builder
+Electrical Engineer · AI Systems Builder · NITK Surathkal (Class of 2025)
 
-NITK Surathkal (Alumnus, 2025)  |  Mangalore, Karnataka  |  India
+Mangalore, India
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div> <br>
-  ❧   About
+❖ About Me
 
-    I am a graduate in Electrical Engineering from the National Institute of Technology Karnataka, Surathkal (Class of 2025). My work operates at the intersection of classical engineering discipline and modern machine intelligence — designing systems that are not only technically rigorous but purposeful.
+I am an Electrical Engineering graduate from NITK Surathkal (2025), focused on building reliable, production-ready AI systems.
 
-    My primary focus areas include applied Artificial Intelligence, time-series forecasting, large language models, and scalable ML infrastructure. I am particularly interested in building systems that are reliable, efficient, and deployable in real-world environments.
+My core interests include:
 
-    Beyond engineering, I write long-form essays on Medium, create science and space content on YouTube, play chess, and explore the landscapes of Karnataka.
+Time-Series Forecasting
 
-<br>
-  ❧   Research & Projects
-<br>
+Large Language Models (LLMs)
 
-①   Optimised LSTM Networks for Time Series Forecasting
- — Conference Paper
+Retrieval-Augmented Generation (RAG)
 
-Implemented Genetic Algorithms and Heap-Based optimisation techniques to automate hyperparameter tuning for LSTM architectures, significantly improving forecasting performance on real-world time-series datasets.
+ML Infrastructure & Deployment
 
-<br>
+Optimisation Algorithms
 
-②   Feature Engineering Pipeline — Airborne Wind Energy Systems
-
-Designed a structured, physics-informed feature engineering pipeline for AWES tether force prediction, emphasising interpretability, reproducibility, and deployment readiness.
+I build systems that are scalable, reproducible, and deployable — not just experimental notebooks.
 
 <br>
+❖ Highlight Projects
+① Optimised LSTM Networks for Time Series Forecasting
 
-③   Personalised Fan Highlights  — Hackathon Project
+Conference Paper
 
-Built a multilingual generative AI pipeline that curates, summarises, and narrates personalised sports highlights tailored to individual viewer preferences.
+Automated hyperparameter tuning using Genetic Algorithms
 
-<br>
+Heap-based optimisation for efficient search
 
-④   Fully Local LLM System
+Improved robustness on real-world forecasting datasets
 
-Developed a privacy-first, fully local question-answering system with contextual memory and retrieval-augmented generation, eliminating cloud dependency.
+② Physics-Informed Feature Engineering — AWES
 
-<br>
+Designed structured pipeline for Airborne Wind Energy Systems
 
-⑤   Findora — E-Commerce Platform  →  findora-tau.vercel.app
+Domain-aware feature extraction
 
-Engineered an AI-enhanced shopping platform with recommendation logic, performance-optimised UI, and scalable backend architecture.
+Deployment-ready preprocessing framework
 
-<br>
+③ Fully Local LLM System
 
-⑥   Publixly — Technology & AI Blog  →  publixly.com
+Self-hosted LLM inference
 
-Publishing long-form articles on AI systems, research insights, startup learning, productivity frameworks, and emerging technology trends.
+Context memory with RAG architecture
 
-<br>
-  ❧   Technical Competencies
-<br>
-  LANGUAGES        Python · C++ · SQL · JavaScript · TypeScript
-  FRAMEWORKS       TensorFlow · PyTorch · Scikit-Learn · FastAPI · React · Django
-  AI / ML          LLMs · RAG · Hugging Face · LangChain · LSTM · AutoML
-  INFRASTRUCTURE   AWS · Google Cloud · Docker · Kubernetes · MLflow
-  DATA             PostgreSQL · MongoDB · Redis · Apache Spark · SQL Server
+Zero cloud dependency
 
-<br>
-  ❧   Credentials
-<br>
-Year	Achievement
-2025	B.Tech Electrical Engineering — NITK Surathkal
-2024	Machine Learning Research Internship — Advanced AI Solutions
-2021	JEE Advanced — CRL Rank < 12,500
-2021	JEE Mains — CRL Rank < 9,500
-2021	IIIT-H UGEE — Qualified SUPR Stage
-2018	NTSE Scholar — National Level (Stage I & II)
-<br>
-  ❧   Writing & Creation
-<br>
+Privacy-first design
 
-📝 Medium — Essays on AI, productivity, long-term thinking, and mental models
-  medium.com/@surajsk2003
+④ Personalised Fan Highlights (Hackathon)
 
-▶ Niche Vortex — Science, space, and technological narratives
-  youtube.com/@NicheVortex
+Multi-language AI sports summarisation
 
-<br>
-  ❧   On the Matter of Ambition
-<br>
+Audio + text + video content generation
 
-"Build systems that outlast you."
+User-preference based highlight filtering
 
-    In this phase of my career, I am focused on building deep technical expertise, shipping production-ready AI systems, and strengthening research foundations. My long-term vision extends toward entrepreneurship, large-scale technological impact, and eventually contributing to policy and governance through systems-level understanding.
+⑤ Findora — AI-Enhanced E-Commerce
 
-    The work begins with disciplined execution — one problem, one system, one commit at a time.
+🔗 https://findora-tau.vercel.app/
 
-<br>
-  ❧   Find Me
-<br>
+Recommendation logic
 
-   Portfolio    surajsk2003.github.io/Suraj.in
+Performance-optimised frontend
 
-   GitHub     github.com/surajsk2003
+Scalable backend design
 
-   LinkedIn    linkedin.com/in/surajnitk
+⑥ Publixly — Technology & AI Blog
 
-   Twitter / X   x.com/StrataMinds
+🔗 https://www.publixly.com/
 
-   Email     suraj.mvsss@gmail.com
+Long-form writing on AI systems, research insights, and startup thinking.
 
-<br> <div align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         "The best way to predict the future is to invent it."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+❖ Tech Stack
+Languages        Python · C++ · SQL · JavaScript · TypeScript
+ML Frameworks    PyTorch · TensorFlow · Scikit-Learn
+LLM Stack        Hugging Face · LangChain · RAG · Transformers
+Backend          FastAPI · Django · Node.js
+Frontend         React
+Infra            AWS · Docker · Kubernetes · MLflow
+Data             PostgreSQL · MongoDB · Redis · Spark · SQL Server
+
+❖ Achievements
+
+B.Tech Electrical Engineering — NITK Surathkal (2025)
+
+JEE Advanced — CRL < 12,500
+
+JEE Mains — CRL < 9,500
+
+NTSE Scholar — National Level
+
+❖ Connect
+
+Portfolio: https://surajsk2003.github.io/Suraj.in/
+
+LinkedIn: https://linkedin.com/in/surajnitk/
+
+Twitter/X: https://x.com/StrataMinds
+
+Email: suraj.mvsss@gmail.com
+
+<div align="center">
+
+“Build systems that scale. Build systems that last.”
 
 </div>
